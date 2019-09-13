@@ -31,3 +31,16 @@ git add . && git commit && git push PyXPAT master
 gedit README.md
 git add . && git commit && git push PyXPAT master
 vim .gitignore
+git add . && git commit && git push PyXPAT master
+git add . && git commit && git push PyXPAT master
+git add . && git commit && git push PyXPAT master
+cd ../../PyXPAT/
+cd ../../PyXPAT/
+git status
+git add .gitignore
+git status
+git status
+vim .gitignore
+git status
+git add .gitignore
+git status
