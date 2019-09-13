@@ -1,0 +1,5 @@
+cd PyXPAT/
+ll
+mv ../XPAT-Versions/* .
+rm -rf *.pyc
+ll
