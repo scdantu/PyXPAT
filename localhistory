@@ -44,3 +44,11 @@ vim .gitignore
 git status
 git add .gitignore
 git status
+git add . && git commit && git push PyXPAT master
+vim .git/info/exclude
+vim .git/info/exclude
+git status
+git config --global core.excludesfile ~/.gitignore_global
+vim ~/.gitignore_global
+git config --global core.excludesfile ~/.gitignore_global
+git status
