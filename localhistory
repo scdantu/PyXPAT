@@ -27,3 +27,7 @@ rm Loop7_CorrelationAnalysisv1.0.py
 vim NormalityTest.py
 ll
 rm E166-Corrdinates.py
+git add . && git commit && git push PyXPAT master
+gedit README.md
+git add . && git commit && git push PyXPAT master
+vim .gitignore
