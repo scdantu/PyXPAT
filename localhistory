@@ -12,3 +12,18 @@ git remote -v
 git remote remove origin
 git add . && git commit && git push PyXPAT master
 vim .gitignore
+git add . && git commit && git push PyXPAT master
+git add . && git commit && git push PyXPAT master
+cp ../ProDynDesign/README ../ProDynDesign/README.md .
+gedit Analysis_Stats.py Angle_Average.py Atom_Coordinates.py Average.py Calc_Ligand_Distance.py Calculate_Atomic_Dihedral.py Calculate_Atomic_Distance.py Center_of_Mass.py Check_Atom.py CrazyIdea.py DihedralCalculator.py E166-Corrdinates.py General_Utilities.py Global_Variables.py Hash_Maps.py __init__.py LICENSE localhistory Loop7_CorrelationAnalysisv1.0.py NormalityTest.py Parse_Options.py PDB_Data.py PDB_list.py PDB_Resolution.py Proc_Ligand.py Read_ClustalW.py README README.md Update_Pdb_List.py XPAT.py
+gedit Analysis_Stats.py Angle_Average.py Atom_Coordinates.py Average.py Calc_Ligand_Distance.py Calculate_Atomic_Dihedral.py Calculate_Atomic_Distance.py Center_of_Mass.py Check_Atom.py CrazyIdea.py DihedralCalculator.py E166-Corrdinates.py General_Utilities.py Global_Variables.py Hash_Maps.py __init__.py LICENSE localhistory Loop7_CorrelationAnalysisv1.0.py NormalityTest.py Parse_Options.py PDB_Data.py PDB_list.py PDB_Resolution.py Proc_Ligand.py Read_ClustalW.py README README.md Update_Pdb_List.py XPAT.py
+gedit Analysis_Stats.py Angle_Average.py Atom_Coordinates.py Average.py Calc_Ligand_Distance.py Calculate_Atomic_Dihedral.py Calculate_Atomic_Distance.py Center_of_Mass.py Check_Atom.py CrazyIdea.py DihedralCalculator.py E166-Corrdinates.py General_Utilities.py Global_Variables.py Hash_Maps.py __init__.py LICENSE localhistory Loop7_CorrelationAnalysisv1.0.py NormalityTest.py Parse_Options.py PDB_Data.py PDB_list.py PDB_Resolution.py Proc_Ligand.py Read_ClustalW.py README README.md Update_Pdb_List.py XPAT.py
+grep python3 Analysis_Stats.py Angle_Average.py Atom_Coordinates.py Average.py Calc_Ligand_Distance.py Calculate_Atomic_Dihedral.py Calculate_Atomic_Distance.py Center_of_Mass.py Check_Atom.py CrazyIdea.py DihedralCalculator.py E166-Corrdinates.py General_Utilities.py Global_Variables.py Hash_Maps.py __init__.py Loop7_CorrelationAnalysisv1.0.py NormalityTest.py Parse_Options.py PDB_Data.py PDB_list.py PDB_Resolution.py Proc_Ligand.py Read_ClustalW.py Update_Pdb_List.py XPAT.py
+vim Calc_Ligand_Distance.py
+vim Calculate_Atomic_Dihedral.py
+vim Calculate_Atomic_Dihedral.py
+rm CrazyIdea.py
+rm Loop7_CorrelationAnalysisv1.0.py
+vim NormalityTest.py
+ll
+rm E166-Corrdinates.py
