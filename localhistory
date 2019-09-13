@@ -10,3 +10,5 @@ git remote add git@github.com:scdantu/PyXPAT.git
 git remote add PyXPAT git@github.com:scdantu/PyXPAT.git
 git remote -v
 git remote remove origin
+git add . && git commit && git push PyXPAT master
+vim .gitignore
