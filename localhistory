@@ -3,3 +3,10 @@ ll
 mv ../XPAT-Versions/* .
 rm -rf *.pyc
 ll
+git add . && git commit && git push PyXPAT master
+git remote -v
+git remote remove PyXPAT
+git remote add git@github.com:scdantu/PyXPAT.git
+git remote add PyXPAT git@github.com:scdantu/PyXPAT.git
+git remote -v
+git remote remove origin
